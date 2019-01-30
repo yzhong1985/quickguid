@@ -1,0 +1,17 @@
+C:\Projects\MouseGuidGen\MouseGuidGen\bin\Release\MouseGuidGen.exe
+C:\Projects\MouseGuidGen\MouseGuidGen\bin\Release\MouseGuidGen.pdb
+C:\Projects\MouseGuidGen\MouseGuidGen\obj\Release\MouseGuidGen.exe
+C:\Projects\MouseGuidGen\MouseGuidGen\obj\Release\MouseGuidGen.pdb
+C:\Projects\MouseGuidGen\MouseGuidGen\obj\Release\MouseGuidGen.csprojResolveAssemblyReference.cache
+H:\Projects\MouseGuidGen\MouseGuidGen\bin\Release\MouseGuidGen.exe
+H:\Projects\MouseGuidGen\MouseGuidGen\bin\Release\MouseGuidGen.pdb
+H:\Projects\MouseGuidGen\MouseGuidGen\obj\Release\MouseGuidGen.csprojResolveAssemblyReference.cache
+H:\Projects\MouseGuidGen\MouseGuidGen\obj\Release\MouseGuidGen.csproj.CoreCompileInputs.cache
+H:\Projects\MouseGuidGen\MouseGuidGen\obj\Release\MouseGuidGen.exe
+H:\Projects\MouseGuidGen\MouseGuidGen\obj\Release\MouseGuidGen.pdb
+F:\DDRIVE\Projects\OLD PROJECTS BACKUP\Projects\MouseGuidGen\MouseGuidGen\bin\Release\MouseGuidGen.exe
+F:\DDRIVE\Projects\OLD PROJECTS BACKUP\Projects\MouseGuidGen\MouseGuidGen\bin\Release\MouseGuidGen.pdb
+F:\DDRIVE\Projects\OLD PROJECTS BACKUP\Projects\MouseGuidGen\MouseGuidGen\obj\Release\MouseGuidGen.csprojAssemblyReference.cache
+F:\DDRIVE\Projects\OLD PROJECTS BACKUP\Projects\MouseGuidGen\MouseGuidGen\obj\Release\MouseGuidGen.csproj.CoreCompileInputs.cache
+F:\DDRIVE\Projects\OLD PROJECTS BACKUP\Projects\MouseGuidGen\MouseGuidGen\obj\Release\MouseGuidGen.exe
+F:\DDRIVE\Projects\OLD PROJECTS BACKUP\Projects\MouseGuidGen\MouseGuidGen\obj\Release\MouseGuidGen.pdb

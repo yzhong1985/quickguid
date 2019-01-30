@@ -1,0 +1,5 @@
+C:\Projects\MouseGuidGen\MouseGuidGen\bin\Debug\MouseGuidGen.exe
+C:\Projects\MouseGuidGen\MouseGuidGen\bin\Debug\MouseGuidGen.pdb
+C:\Projects\MouseGuidGen\MouseGuidGen\obj\Debug\MouseGuidGen.csprojResolveAssemblyReference.cache
+C:\Projects\MouseGuidGen\MouseGuidGen\obj\Debug\MouseGuidGen.exe
+C:\Projects\MouseGuidGen\MouseGuidGen\obj\Debug\MouseGuidGen.pdb
